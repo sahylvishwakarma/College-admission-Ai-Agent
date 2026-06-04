@@ -1,0 +1,22 @@
+{
+  "name": "college-admission-support-portal",
+  "version": "1.0.0",
+  "description": "An online helpdesk and information center for college admissions featuring an AI-driven Watsonx Orchestrate support agent.",
+  "repository": {
+    "type": "git",
+    "url": "https://sahylvishwakarma/College-admission-Ai-Agent"
+  },
+  "keywords": [
+    "college-admission",
+    "support-portal",
+    "html5",
+    "tailwindcss",
+    "watsonx-orchestrate",
+    "ai-chatbot"
+  ],
+  "author": "Admission Support Desk Team",
+  "license": "MIT",
+  "homepage": "index.html",
+  "dependencies": {},
+  "devDependencies": {}
+}
